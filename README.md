@@ -19,23 +19,23 @@ Cada veículo é designado a uma equipe de mecânicos, que identifica os serviç
 
 A OS inclui:
 
-Data de emissão
+-Data de emissão
 
-Data de entrega
+-Data de entrega
 
-Serviços a serem executados
+-Serviços a serem executados
 
 Cálculo do valor total com base na mão de obra e peças utilizadas
 
 Os mecânicos possuem informações como:
 
-Código
+-Código
 
-Nome
+-Nome
 
-Endereço
+-Endereço
 
-Especialidade
+-Especialidade
 
 O cliente deve autorizar a execução dos serviços antes da realização.
 
