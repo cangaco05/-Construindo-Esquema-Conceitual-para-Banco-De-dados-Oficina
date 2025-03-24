@@ -1,4 +1,4 @@
-# -Construindo-Esquema-Conceitual-para-Banco-De-dados-Oficina
+# Construindo-Esquema-Conceitual-para-Banco-De-dados-Oficina
 Desafio de Projeto DIO: Desenvolvimento de um diagrama de banco de dados no MySQL Workbench, aplicando boas práticas de modelagem relacional para garantir eficiência, integridade e escalabilidade dos dados. 
 
 🚗📊 Desafio de Modelagem de Banco de Dados - Oficina Mecânica
